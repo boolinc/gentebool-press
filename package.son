@@ -4,5 +4,11 @@
   "version": "0.0.1",
   "dependencies": {
     "knuth-shuffle": "^1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  },
+  "scripts": {
+    "test": "mocha --recursive test"
   }
 }
