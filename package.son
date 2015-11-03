@@ -1,0 +1,8 @@
+{
+  "name": "gentebool-press",
+  "description": "Algorithms to make Press sweeter in GenteBool",
+  "version": "0.0.1",
+  "dependencies": {
+    "knuth-shuffle": "^1.0.1"
+  }
+}
